@@ -1,0 +1,151 @@
+Sa ne jucam Snakes and Ladders!
+Ai apasat tasta '1'. Te rog apasa 'z'!
+Ai apasat tasta '2'. Te rog apasa 'z'!
+Ai apasat tasta '3'. Te rog apasa 'z'!
+Ai apasat tasta '4'. Te rog apasa 'z'!
+Zarul jucatorului 1 indica valoarea 6.
+Jucatorul 1 se afla pe pozitia 7.
+
+
+
+Zarul jucatorului 2 indica valoarea 2.
+Jucatorul 2 se afla pe pozitia 3.
+
+
+
+Zarul jucatorului 1 indica valoarea 3.
+Jucatorul 1 se afla pe pozitia 10.
+
+
+
+Zarul jucatorului 2 indica valoarea 1.
+Jucatorul 2 se afla pe pozitia 4.
+
+
+
+Zarul jucatorului 1 indica valoarea 1.
+Jucatorul 1 se afla pe pozitia 11.
+
+
+
+Zarul jucatorului 2 indica valoarea 4.
+FELICITARI! Vei urca pe o scara :)
+Jucatorul 2 se afla pe pozitia 34.
+
+
+
+Zarul jucatorului 1 indica valoarea 6.
+Jucatorul 1 se afla pe pozitia 17.
+
+
+
+Zarul jucatorului 2 indica valoarea 6.
+Jucatorul 2 se afla pe pozitia 40.
+
+
+
+Zarul jucatorului 1 indica valoarea 5.
+Jucatorul 1 se afla pe pozitia 22.
+
+
+
+Zarul jucatorului 2 indica valoarea 5.
+Jucatorul 2 se afla pe pozitia 45.
+
+
+
+Ai apasat tasta '1'. Te rog apasa 'z'!
+Ai apasat tasta '2'. Te rog apasa 'z'!
+Ai apasat tasta '3'. Te rog apasa 'z'!
+Zarul jucatorului 1 indica valoarea 1.
+Jucatorul 1 se afla pe pozitia 23.
+
+
+
+Zarul jucatorului 2 indica valoarea 5.
+Jucatorul 2 se afla pe pozitia 50.
+
+
+
+Zarul jucatorului 1 indica valoarea 3.
+Jucatorul 1 se afla pe pozitia 26.
+
+
+
+Zarul jucatorului 2 indica valoarea 1.
+Jucatorul 2 se afla pe pozitia 51.
+
+
+
+Zarul jucatorului 1 indica valoarea 2.
+Jucatorul 1 se afla pe pozitia 28.
+
+
+
+Zarul jucatorului 2 indica valoarea 5.
+Jucatorul 2 se afla pe pozitia 56.
+
+
+
+Zarul jucatorului 1 indica valoarea 3.
+Jucatorul 1 se afla pe pozitia 31.
+
+
+
+Zarul jucatorului 2 indica valoarea 5.
+Jucatorul 2 se afla pe pozitia 61.
+
+
+
+Zarul jucatorului 1 indica valoarea 3.
+Jucatorul 1 se afla pe pozitia 34.
+
+
+
+Zarul jucatorului 2 indica valoarea 6.
+Jucatorul 2 se afla pe pozitia 67.
+
+
+
+Zarul jucatorului 1 indica valoarea 1.
+Jucatorul 1 se afla pe pozitia 35.
+
+
+
+Zarul jucatorului 2 indica valoarea 1.
+Jucatorul 2 se afla pe pozitia 68.
+
+
+
+Zarul jucatorului 1 indica valoarea 4.
+Jucatorul 1 se afla pe pozitia 39.
+
+
+
+Zarul jucatorului 2 indica valoarea 4.
+Jucatorul 2 se afla pe pozitia 72.
+
+
+
+Zarul jucatorului 1 indica valoarea 4.
+Jucatorul 1 se afla pe pozitia 43.
+
+
+
+Zarul jucatorului 2 indica valoarea 4.
+Jucatorul 2 se afla pe pozitia 76.
+
+
+
+Zarul jucatorului 1 indica valoarea 2.
+Jucatorul 1 se afla pe pozitia 45.
+
+
+
+Zarul jucatorului 2 indica valoarea 6.
+FELICITARI! Vei urca pe o scara :)
+Jucatorul 2 se afla pe pozitia 100.
+
+
+
+Jucatorul numarul 2 a castigat!!!
